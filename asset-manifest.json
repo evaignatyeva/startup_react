@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/startup_react/static/css/main.feda52ed.css",
+    "main.js": "/startup_react/static/js/main.133e270e.js",
+    "static/js/377.d5a5bbff.chunk.js": "/startup_react/static/js/377.d5a5bbff.chunk.js",
+    "static/media/backgroundHeader.jpg": "/startup_react/static/media/backgroundHeader.d505b7be493f61d4de5b.jpg",
+    "static/media/backgroundContact.jpg": "/startup_react/static/media/backgroundContact.af88f2afba8d472464a8.jpg",
+    "static/media/roboto-slab-all-400-normal.woff": "/startup_react/static/media/roboto-slab-all-400-normal.3ff15a15612ace86a56f.woff",
+    "static/media/montserrat-all-400-normal.woff": "/startup_react/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
+    "static/media/blog1.jpg": "/startup_react/static/media/blog1.d5f666155bb48e4b8126.jpg",
+    "static/media/blog2.jpg": "/startup_react/static/media/blog2.458c731c6236c4689d77.jpg",
+    "static/media/montserrat-latin-400-normal.woff2": "/startup_react/static/media/montserrat-latin-400-normal.5d169d5efcd03fdcc0d7.woff2",
+    "static/media/roboto-slab-latin-400-normal.woff2": "/startup_react/static/media/roboto-slab-latin-400-normal.7c29781c5250194ffd21.woff2",
+    "static/media/roboto-slab-cyrillic-ext-400-normal.woff2": "/startup_react/static/media/roboto-slab-cyrillic-ext-400-normal.434ab9de782c920f706c.woff2",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/startup_react/static/media/montserrat-latin-ext-400-normal.78f49f9fae55910fc2ae.woff2",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/startup_react/static/media/montserrat-cyrillic-ext-400-normal.292f0ac24f2654f6e295.woff2",
+    "static/media/roboto-slab-cyrillic-400-normal.woff2": "/startup_react/static/media/roboto-slab-cyrillic-400-normal.fdb071d40d6648e8d6a9.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/startup_react/static/media/montserrat-cyrillic-400-normal.57021f86f3fe9d3ba3c8.woff2",
+    "static/media/roboto-slab-latin-ext-400-normal.woff2": "/startup_react/static/media/roboto-slab-latin-ext-400-normal.4c50f0b10080616cf494.woff2",
+    "static/media/roboto-slab-greek-400-normal.woff2": "/startup_react/static/media/roboto-slab-greek-400-normal.081026107f8ddc87bc38.woff2",
+    "static/media/roboto-slab-vietnamese-400-normal.woff2": "/startup_react/static/media/roboto-slab-vietnamese-400-normal.9517319900fc23a63227.woff2",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/startup_react/static/media/montserrat-vietnamese-400-normal.ba00b1a6e1e5778dbf9b.woff2",
+    "static/media/slick.svg": "/startup_react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/startup_react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/startup_react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/startup_react/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/roboto-slab-greek-ext-400-normal.woff2": "/startup_react/static/media/roboto-slab-greek-ext-400-normal.13e0cab38cad6b9eca7e.woff2",
+    "index.html": "/startup_react/index.html",
+    "main.feda52ed.css.map": "/startup_react/static/css/main.feda52ed.css.map",
+    "main.133e270e.js.map": "/startup_react/static/js/main.133e270e.js.map",
+    "377.d5a5bbff.chunk.js.map": "/startup_react/static/js/377.d5a5bbff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feda52ed.css",
+    "static/js/main.133e270e.js"
+  ]
+}
