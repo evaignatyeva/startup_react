@@ -3,11 +3,11 @@ import PaginationDot from './PaginationDot';
 
 const styles = {
     root: {
-        display: 'flex',
-        justifyContent: 'center',
-        position: 'absolute',
-        bottom: 0,
-        right: '48%'
+        //display: 'flex',
+        //justifyContent: 'center',
+        //position: 'absolute',
+        //bottom: 0,
+        //right: '48%'
     },
 };
 

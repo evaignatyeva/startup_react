@@ -12,6 +12,7 @@ import {
 const styles = {
     slideContainer: {
         minHeight: 100,
+        height: 'fit-content'
     },
 };
 
@@ -34,6 +35,7 @@ function SliderContent() {
                     index={index}
                     onChangeIndex={handleChangeIndex}
                     enableMouseEvents
+                    animateHeight={true}
                 >
                     {reviewsSlider.map((slide, index) => (
                         <Box style={Object.assign({}, styles.slideContainer)}
