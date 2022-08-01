@@ -17,7 +17,7 @@ class Pagination extends React.Component {
             );
         }
 
-        return <div style={styles.root}>{children}</div>;
+        return <div>{children}</div>;
     }
 }
 
